@@ -1,0 +1,116 @@
+body{
+	margin:0;
+	height: auto;
+	text-align:center;
+	font-family:sans-serif;
+}
+
+.top-container{
+	padding-top:100px;
+	position:relative;
+	background-color:#e4f9f5;
+}
+h1{
+	font-size:5.625rem;
+	margin:50px auto 0 auto;
+font-family: 'Dancing Script', cursive;
+color:#66Bfbf;
+line-height:2;
+}
+
+h2{
+	font-family: sans-serif;
+		font-size:2.5rem;
+		color: #66Bfbf;
+		font-weight:normal;
+}
+h3{
+	color:#11999E;
+	font-weight: bold;
+}
+p{
+	color:#40514E;
+	line-height: 2;
+	font-size:1em;
+}
+.top-container span{text-decoration:underline;}
+.profile{
+width:500px;
+margin:50px auto;
+
+}
+hr{
+	border:6px dotted #EAF6F6;
+	border-bottom:none;
+	width:6%;
+	margin:50px auto;
+}
+.skill-row{
+	margin:100px auto;
+	width:50%;
+	text-align:left;
+	line-height:2;
+}
+.chillies-img{
+	width:25%;
+	float:left;
+	margin-right:30px;
+}
+.computer-img{
+	width:25%;
+	float:right;
+		margin-left:30px;
+
+}
+
+.bottom-container{
+	background-color:#66BFBF;
+	color:#EAF6F6;
+	margin-top:30px;
+padding:40px 0 5px 0;
+}
+.bottom-container p{
+	color:#EAF6F6;
+}
+.bottom-container a{
+	color:#11999E;
+	font-weight: bold;
+	padding:15px;
+	text-decoration:none;
+}
+.top-cloud{
+position: absolute;
+top:50px;
+right:200px;
+}
+.bottom-cloud{
+position:absolute;
+left:200px;
+}
+.btn{
+	padding:15px 30px;
+	background-color:#11999E;
+	border-radius:15px;
+	color:#EAF6F6;
+	font-weight: bold;
+	text-decoration: none;
+	
+}
+
+.contact-me{
+	width:50%;
+	margin:50px auto;
+	padding:20px 0;
+
+}
+.contact-me a{
+margin:50px 0;
+}
+.contact-me p{
+	margin-bottom:50px;
+}
+.ahmed-img{
+	width:200px;
+	height:200px;
+	border-radius:50%;
+}
